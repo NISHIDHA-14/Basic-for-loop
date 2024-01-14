@@ -1,0 +1,21 @@
+class ForDemo{
+       public static void main(String[]args){
+                  int n=10;
+                  int var=100;
+                   for(int i=1;i<=n;i++){
+                         System.out.println(var++);
+               }
+        }
+}
+
+OUTPUT:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
